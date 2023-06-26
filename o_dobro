@@ -1,0 +1,4 @@
+numero = input()
+numero = int(numero)
+resp = numero * 2
+print(resp)
